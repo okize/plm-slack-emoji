@@ -1,0 +1,24 @@
+{
+  "name": "plm-slack-emoji",
+  "description": "Custom Slack emojis from team PLM",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+  },
+  "scripts": {
+    "download": "./scripts/download-emojis.js",
+    "emojipack": "./scripts/write-emojipack.js",
+    "readme": "./scripts/write-readme.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okize/plm-slack-emoji.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/okize/plm-slack-emoji/issues"
+  },
+  "homepage": "https://github.com/okize/plm-slack-emoji#readme"
+}
