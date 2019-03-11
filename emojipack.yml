@@ -1,0 +1,716 @@
+title: plm-slack-emoji
+emojis:
+  - name: aaw_yeah
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/aaw_yeah.gif
+  - name: amy
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/amy.png
+  - name: angry_confused_panda
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/angry_confused_panda.jpg
+  - name: aussieparrot
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/aussieparrot.gif
+  - name: axe_panda
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/axe_panda.jpg
+  - name: badass
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/badass.png
+  - name: badger
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/badger.png
+  - name: beamsword
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/beamsword.png
+  - name: bearhug
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/bearhug.gif
+  - name: belligerent_panda
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/belligerent_panda.jpg
+  - name: berry
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/berry.png
+  - name: bezos
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/bezos.png
+  - name: billnye
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/billnye.gif
+  - name: bleeding_panda
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/bleeding_panda.png
+  - name: bluesteel
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/bluesteel.gif
+  - name: bobross
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/bobross.png
+  - name: boots
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/boots.png
+  - name: bro
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/bro.png
+  - name: bully
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/bully.gif
+  - name: business_cat
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/business_cat.png
+  - name: cactuar
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/cactuar.jpg
+  - name: cakealice
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/cakealice.png
+  - name: cando
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/cando.png
+  - name: cash
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/cash.png
+  - name: celeryman
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/celeryman.gif
+  - name: chef
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/chef.png
+  - name: chillparrot
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/chillparrot.gif
+  - name: chopper
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/chopper.png
+  - name: close_airquotes
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/close_airquotes.gif
+  - name: coin
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/coin.gif
+  - name: cold_panda
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/cold_panda.jpg
+  - name: comic_sans
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/comic_sans.png
+  - name: congacanary
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/congacanary.gif
+  - name: cool_panda
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/cool_panda.jpg
+  - name: coolbeans
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/coolbeans.png
+  - name: crankykong
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/crankykong.gif
+  - name: crickets
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/crickets.png
+  - name: crit
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/crit.png
+  - name: cthulhu
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/cthulhu.gif
+  - name: dancing_corgi
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/dancing_corgi.gif
+  - name: deal-with-it-parrot
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/deal-with-it-parrot.gif
+  - name: deal
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/deal.png
+  - name: depressed_panda
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/depressed_panda.jpg
+  - name: design_eye
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/design_eye.png
+  - name: design_unicorn
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/design_unicorn.png
+  - name: destroyer_panda
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/destroyer_panda.jpg
+  - name: disco_ball
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/disco_ball.png
+  - name: discopidgeon
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/discopidgeon.gif
+  - name: dna
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/dna.png
+  - name: docker
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/docker.png
+  - name: doge
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/doge.png
+  - name: doyle
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/doyle.png
+  - name: dracarys
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/dracarys.gif
+  - name: dragon_panda
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/dragon_panda.jpg
+  - name: dropkick_panda
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/dropkick_panda.jpg
+  - name: drums
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/drums.png
+  - name: duckhunt
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/duckhunt.gif
+  - name: ducky
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/ducky.png
+  - name: dumpster_fire
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/dumpster_fire.png
+  - name: dumpster_fire2
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/dumpster_fire2.jpg
+  - name: elon
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/elon.png
+  - name: ember
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/ember.png
+  - name: exacto
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/exacto.png
+  - name: explodyparrot
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/explodyparrot.gif
+  - name: eyeroll
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/eyeroll.png
+  - name: facepalm
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/facepalm.png
+  - name: fail_whale
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/fail_whale.png
+  - name: figma
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/figma.png
+  - name: flirty_panda
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/flirty_panda.jpg
+  - name: flying_pig
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/flying_pig.png
+  - name: fonz
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/fonz.png
+  - name: furious_panda
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/furious_panda.jpg
+  - name: galleon
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/galleon.png
+  - name: go-team
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/go-team.png
+  - name: graphql
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/graphql.png
+  - name: grassy_panda
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/grassy_panda.jpg
+  - name: green_wave
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/green_wave.png
+  - name: grumpycat
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/grumpycat.png
+  - name: guy_fiero
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/guy_fiero.png
+  - name: hand_with_fingers_crossed
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/hand_with_fingers_crossed.png
+  - name: happygoat
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/happygoat.gif
+  - name: hate_mail
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/hate_mail.png
+  - name: headbang
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/headbang.gif
+  - name: helix_hi_five
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/helix_hi_five.png
+  - name: helix_searching
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/helix_searching.png
+  - name: helix_shrug
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/helix_shrug.png
+  - name: helix_thinking
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/helix_thinking.png
+  - name: hexagon
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/hexagon.gif
+  - name: hexie_hi_five
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/hexie_hi_five.png
+  - name: hexie_searching
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/hexie_searching.png
+  - name: hexie_shrug
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/hexie_shrug.png
+  - name: hexie_thinking
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/hexie_thinking.png
+  - name: hockey
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/hockey.png
+  - name: homestarrunner
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/homestarrunner.gif
+  - name: horsejs
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/horsejs.png
+  - name: horseshit
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/horseshit.png
+  - name: hula
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/hula.jpg
+  - name: hulahoop_panda
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/hulahoop_panda.gif
+  - name: hypnotoad
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/hypnotoad.gif
+  - name: iliketurtles
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/iliketurtles.png
+  - name: instinct
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/instinct.png
+  - name: javascript
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/javascript.jpg
+  - name: jayz
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/jayz.png
+  - name: jazz_hands
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/jazz_hands.gif
+  - name: jenkins
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/jenkins.png
+  - name: jenkinsmad
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/jenkinsmad.png
+  - name: jerky
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/jerky.png
+  - name: joecool
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/joecool.png
+  - name: jordan
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/jordan.png
+  - name: kanye
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/kanye.png
+  - name: kanye_shrug
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/kanye_shrug.png
+  - name: keep_calm
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/keep_calm.png
+  - name: kevin
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/kevin.png
+  - name: kirby
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/kirby.gif
+  - name: kruger
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/kruger.png
+  - name: leaf-totoro
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/leaf-totoro.jpg
+  - name: leave_now_panda
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/leave_now_panda.jpg
+  - name: left_shark
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/left_shark.gif
+  - name: lightsaber
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/lightsaber.png
+  - name: liz
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/liz.gif
+  - name: log
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/log.png
+  - name: lolface
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/lolface.png
+  - name: lolsob
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/lolsob.png
+  - name: magic_wand
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/magic_wand.png
+  - name: manatee
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/manatee.jpg
+  - name: marioandluigi
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/marioandluigi.gif
+  - name: medicalmarijuana
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/medicalmarijuana.png
+  - name: mic_drop
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/mic_drop.png
+  - name: mickey
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/mickey.png
+  - name: mindblown
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/mindblown.gif
+  - name: moonwalk_parrot
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/moonwalk_parrot.gif
+  - name: morgan
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/morgan.png
+  - name: motherofgod
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/motherofgod.gif
+  - name: mystic
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/mystic.png
+  - name: nauseated
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/nauseated.png
+  - name: newswire_direct
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/newswire_direct.png
+  - name: no_moon
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/no_moon.jpg
+  - name: nocoffee
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/nocoffee.png
+  - name: north_star
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/north_star.png
+  - name: not_bad
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/not_bad.jpg
+  - name: not_listening
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/not_listening.png
+  - name: not_sure
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/not_sure.png
+  - name: nyancat
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/nyancat.gif
+  - name: nyanparrot
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/nyanparrot.gif
+  - name: ooohwee
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/ooohwee.png
+  - name: open_airquotes
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/open_airquotes.gif
+  - name: oreo
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/oreo.png
+  - name: otter_dance
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/otter_dance.gif
+  - name: parrot-wave-1
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/parrot-wave-1.gif
+  - name: party_corgi
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/party_corgi.gif
+  - name: partyparrot
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/partyparrot.gif
+  - name: partypopper
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/partypopper.png
+  - name: picard
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/picard.png
+  - name: pie_slice
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/pie_slice.png
+  - name: pikachu
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/pikachu.png
+  - name: pirate
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/pirate.png
+  - name: plant
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/plant.png
+  - name: platform
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/platform.png
+  - name: plm
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/plm.png
+  - name: pokeball
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/pokeball.png
+  - name: poking_panda
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/poking_panda.gif
+  - name: pong
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/pong.png
+  - name: pony
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/pony.png
+  - name: porg
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/porg.png
+  - name: pretzels
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/pretzels.png
+  - name: pride-parrot
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/pride-parrot.gif
+  - name: prince_sign
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/prince_sign.png
+  - name: prosper
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/prosper.png
+  - name: punching_panda
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/punching_panda.jpg
+  - name: punpunpun
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/punpunpun.png
+  - name: react
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/react.png
+  - name: retainer
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/retainer.png
+  - name: robot_jazz_hands
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/robot_jazz_hands.png
+  - name: rock-on
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/rock-on.png
+  - name: sad_panda
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/sad_panda.jpg
+  - name: sad_panda_2
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/sad_panda_2.jpg
+  - name: sadpanda
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/sadpanda.png
+  - name: sadpoop
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/sadpoop.png
+  - name: sadtroll
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/sadtroll.png
+  - name: scared_panda
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/scared_panda.jpg
+  - name: scotch
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/scotch.jpg
+  - name: shadow_panda
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/shadow_panda.jpg
+  - name: ski-parrot
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/ski-parrot.gif
+  - name: sleepyparrot
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/sleepyparrot.gif
+  - name: slowpoke
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/slowpoke.jpg
+  - name: snowblower
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/snowblower.gif
+  - name: soup
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/soup.jpg
+  - name: spaceneedle
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/spaceneedle.png
+  - name: spitting_panda
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/spitting_panda.jpg
+  - name: squirtle
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/squirtle.png
+  - name: stable-parrot
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/stable-parrot.gif
+  - name: star3
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/star3.gif
+  - name: stickman
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/stickman.png
+  - name: stoned
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/stoned.png
+  - name: subaru
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/subaru.png
+  - name: success_kid
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/success_kid.png
+  - name: sunny_panda
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/sunny_panda.jpg
+  - name: swedish_fish
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/swedish_fish.png
+  - name: takemymoney
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/takemymoney.png
+  - name: thankyou
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/thankyou.gif
+  - name: themoreyouknow
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/themoreyouknow.jpg
+  - name: therealwat
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/therealwat.jpg
+  - name: thisisfine
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/thisisfine.gif
+  - name: tip_hat
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/tip_hat.png
+  - name: totoro-friends
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/totoro-friends.png
+  - name: totoro
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/totoro.png
+  - name: trans-hearts
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/trans-hearts.png
+  - name: trireme
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/trireme.png
+  - name: trumpdump
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/trumpdump.png
+  - name: tux
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/tux.png
+  - name: unimpressed_panda
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/unimpressed_panda.jpg
+  - name: valor
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/valor.png
+  - name: veryfrown
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/veryfrown.png
+  - name: vomit
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/vomit.gif
+  - name: wait_im_drinking
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/wait_im_drinking.png
+  - name: waldo
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/waldo.png
+  - name: walking_zombie
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/walking_zombie.gif
+  - name: wat
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/wat.png
+  - name: wcgw
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/wcgw.png
+  - name: whatday
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/whatday.gif
+  - name: why
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/why.png
+  - name: witness_protection_parrot
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/witness_protection_parrot.gif
+  - name: wohoo
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/wohoo.gif
+  - name: wonder
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/wonder.png
+  - name: yak
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/yak.png
+  - name: yakshaving
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/yakshaving.png
+  - name: yas
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/yas.jpg
+  - name: yay
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/yay.png
+  - name: yodawg
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/yodawg.png
+  - name: yolo
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/yolo.jpg
+  - name: yoshi-carry
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/yoshi-carry.png
+  - name: yoshi-duck
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/yoshi-duck.png
+  - name: yoshi-excited
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/yoshi-excited.png
+  - name: yoshi-spin
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/yoshi-spin.gif
+  - name: yoshi-yell
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/yoshi-yell.png
+  - name: yoshi
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/yoshi.png
+  - name: you
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/you.png
+  - name: yuno
+    src: >-
+      https://raw.githubusercontent.com/okize/plm-slack-emoji/master/emoji/yuno.jpg
